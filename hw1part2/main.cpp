@@ -1,7 +1,7 @@
 //Okay this concept is actually pretty intuitive but hard to explain
 //so I'm going to show it with examples, maybe some code that won't work
 //to illustrate how not to use them.
-//these examples are modified versions of ones found on my source in the
+//These examples are modified versions of ones found in my source in the
 //readme. He explains it better than I could.
 
 #include <iostream>
@@ -15,6 +15,9 @@ int main() {
     num = (1 + 5);    //so does this
     1 = num;    //this doesn't work
     (1 + 5) = num;    //this also doesn't
+    //Actually I think that kind of explains them for the most part.
+    //There are some complicated exceptions and loopholes but generally
+    //rvalues go on the right side of the equation and lvalues on the left.
 
 
     return 0;
