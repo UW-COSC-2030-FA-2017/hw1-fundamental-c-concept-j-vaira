@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\JetBrains\CLion 2016.3.5\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Ace\Documents\GitHub\COSC 2030\hw1-fundamental-c-concept-j-vaira\part3"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Ace/Documents/GitHub/COSC 2030/hw1-fundamental-c-concept-j-vaira/part3/cmake-build-debug
