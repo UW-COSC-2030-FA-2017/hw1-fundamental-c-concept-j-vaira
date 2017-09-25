@@ -16,7 +16,7 @@ int main() {
     collection1.isEmpty(collection1.size);
 
     cout << "\nInserting an item into array.\n";
-    collection1.insert(collection1.contents, 0, 1, "Pac-Man");
+    collection1.insert(collection1.contents, 0, 2, "Pac-Man");
     collection1.showContents(collection1.contents);
 
     cout << "\nSearching for an item in array.\n";

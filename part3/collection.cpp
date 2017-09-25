@@ -35,7 +35,8 @@ int collection::makeEmpty(vector<string> &object, int &size)
 
 int collection::insert(vector<string> &object, int place, int size, string x)
 {
-    for (int i = size + 1; i >= 0; --i)
+    object[size + 1] = "";
+    for (int i = size; i >= 0; --i)
         {
             object[i + 1] = object[i];
         }
