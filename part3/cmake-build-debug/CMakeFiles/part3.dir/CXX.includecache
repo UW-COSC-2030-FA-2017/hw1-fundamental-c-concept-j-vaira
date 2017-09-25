@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ace/Documents/GitHub/COSC 2030/hw1-fundamental-c-concept-j-vaira/part3/collection.cpp
+collection.h
+C:/Users/Ace/Documents/GitHub/COSC 2030/hw1-fundamental-c-concept-j-vaira/part3/collection.h
+cstdlib
+-
+
+C:/Users/Ace/Documents/GitHub/COSC 2030/hw1-fundamental-c-concept-j-vaira/part3/collection.h
+vector
+-
+iostream
+-
+
+C:/Users/Ace/Documents/GitHub/COSC 2030/hw1-fundamental-c-concept-j-vaira/part3/main.cpp
+iostream
+-
+collection.h
+C:/Users/Ace/Documents/GitHub/COSC 2030/hw1-fundamental-c-concept-j-vaira/part3/collection.h
+
